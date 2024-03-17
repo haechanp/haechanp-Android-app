@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void onClicked(View v){
-        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/mk642/mk642"));
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/haechanp/haechanp-Android-app"));
         startActivity(intent);
     }
 }
