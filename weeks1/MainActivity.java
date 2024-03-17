@@ -1,4 +1,4 @@
-package com.example.hello1;
+package com.example.GoTOGit;
 
 import android.content.Intent;
 import android.net.Uri;
